@@ -1,0 +1,27 @@
+[
+    {
+        "title": "C++ logo",
+        "answer": "cpp",
+        "image": "img/cpp_logo.png"
+    },
+    {
+        "title": "Java logo",
+        "answer": "java",
+        "image": "img/java_logo.png"
+    },
+    {
+        "title": "Linux logo",
+        "answer": "linux",
+        "image": "img/linux.jpg"
+    },
+    {
+        "title": "Python logo",
+        "answer": "python",
+        "image": "img/python_logo.png"
+    },
+    {
+        "title": "Windows logo",
+        "answer": "windows",
+        "image": "img/windows.png"
+    }
+]

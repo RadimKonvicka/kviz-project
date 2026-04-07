@@ -1,0 +1,1 @@
+"""LogoKviz - Minimalistická kvízová hra"""
