@@ -4,11 +4,10 @@ Moderní kvízová hra s **minimalistickým designem** v barvách **šedé a fia
 
 ## Obsah
 
-- Kompletně **přepracovaný design** s minimalistickým přístupem
+- Minimalistický design s přehledným přístupem
 - Barvové schéma: šedá + fialová
 - camelCase konvence pro všechny proměnné a soubory
-- Refaktorovaný balíček `logoKviz`
-- Nové GUI s Pygame
+- GUI s Pygame
 
 ## Struktura projektu
 
@@ -81,19 +80,7 @@ python main.py --headless
 - **Písmenka** - Psát odpověď
 - **BACKSPACE** - Smazat znak
 
-## 🔄 Refaktor
 
-Projekt jsem kompletně předělal:
-
-### Dřív
-- Balíček: starý
-- Jmenování: `snake_case`
-
-### Teď
-- Balíček: `logoKviz`
-- Jmenování: `camelCase`
-- Nový `config.py`
-- Lepší design
 
 ## Bezpečnost dat
 
