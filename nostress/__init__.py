@@ -1,1 +1,0 @@
-"""LogoKviz package init"""
